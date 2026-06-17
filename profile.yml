@@ -1,8 +1,10 @@
 team:
- name: IT-Partner
- level: 1
+  name: IT-Partner
+  level: 1
+
 members:
-- role: Developer
-  name: ศุภกร ลุงติ๊บ
-- role: Operations
-  name: เจ้าพายุ ลุงปอย
+  - role: Developer
+    name: ศุภกร ลุงติ๊บ
+
+  - role: Operations
+    name: เจ้าพายุ ลุงปอย
