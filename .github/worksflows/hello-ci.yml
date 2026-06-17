@@ -6,6 +6,8 @@ jobs:
 say-hello:
 runs-on: ubuntu-latest
 
+```
 steps:
   - name: Run a greeting message
     run: echo "Hello DevOps! ระบบ CI เริ่มทำงานเรียบร้อยแล้ว"
+```
